@@ -1,0 +1,27 @@
+  [
+      {
+        "offer_id": 7031818,
+        "title": "25Home: Mother's Day Sale+Sidewide35%Off+Code \"MOM\" for Xtra 5% Off",
+        "description": "",
+        "label": "35% off",
+        "code": "MOM",
+        "featured": "No",
+        "source": "impact",
+        "deeplink": "impact",
+        "affiliate_link": "https://25home.pxf.io/c/3324490/1568931/16836",
+        "cashback_link": "https://25home.pxf.io/c/3324490/1568931/16836?subId1={{replace_userid_here}}",
+        "url": "https://25home.com/",
+        "image_url": "",
+        "brand_logo": "https://brandlogos.org/placeholder/?brand=25home.com&size=[size]&format=[format]&token=[token]&domain=[domain]",
+        "type": "Deal",
+        "store": "25home.com",
+        "merchant_home_page": "https://25home.com",
+        "categories": "",
+        "start_date": "",
+        "end_date": "",
+        "status": "new",
+        "primary_location": "United States of America",
+        "language": "en",
+        "rating": 0
+      }
+]
