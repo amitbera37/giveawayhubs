@@ -1,7 +1,7 @@
 //aws
-const accessKeyId       = 'AKIARYFL6FJWP5HJ3XND';  
-const secretAccessKey   = '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';
-const region            = 'us-east-1';
+const accessKeyId       = '';  
+const secretAccessKey   = '';
+const region            = '';
 const bucket            = '';
 const TopicArn          = '';
 const TopicArnSES       = '';
